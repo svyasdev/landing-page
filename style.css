@@ -70,3 +70,39 @@ ul {
     flex: 1 1 0px;
     width: 0;
 }
+
+.second {
+    display: flex;
+    flex-direction: column;
+    padding: 36px 150px;
+    gap: 36px;
+}
+
+.information-main {
+    font-style: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    margin:auto;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    color: #1F2937;
+    font-size: 18px;
+    gap: 36px;
+}
+
+.card {
+    flex: 1 1 0px;
+    width: 0;
+    max-width: 200px;
+    display: flex;
+    flex-direction: column;
+    text-wrap: wrap;
+    text-align: center;
+}
+
+.information-secondary {
+    margin-top: 8px;
+}
