@@ -106,3 +106,23 @@ ul {
 .information-secondary {
     margin-top: 8px;
 }
+
+
+.third {
+    background-color: #E5E7EB;
+    padding: 150px 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.thor {
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: auto;
+}
